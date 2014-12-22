@@ -39,9 +39,32 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A true description of His Majesties royall ship, built this yeare 1637. at Wooll-witch in Kent To th
+
+1. TO THE
+HIGH AND
+Mighty Monarch
+CHARLES
+The first of that
+NAME,
+KING of Great
+BRITTAINE,
+FRANCE AND
+IRELAND, Defender
+of the Faith, &c.
+
+1. To my much respected Friend, Master
+Thomas Heywood, and of his Booke of
+his Maiesties Great Ship.
+Imprimatur Tho. Weekes.With permission likewise by Peter Pett, Master builder
+7. of Septemb. 1637.
 #####Body#####
-A true description of His Majesties royall ship, built this yeare 1637. at Wooll-witch in Kent To th
+
+1. A
+True Description of His
+Majesties Royall Ship built
+this Yeare 1637. at Wolwitch
+in KENT, &c.
+
 **Types of content**
 
   * There are 220 **verse** lines!
